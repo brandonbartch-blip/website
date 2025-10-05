@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>About Us | Brandon Bartch Mobile Repair</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Brandon Bartch Mobile Repair</h1>
+    <p>Professional Mobile Auto Services in Lancaster, PA</p>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section>
+      <h2>Our Story: More than just a repair</h2>
+      <p>
+        [Example: Begin with your personal story. How did you get started? What inspired you to offer mobile repair?]
+        Growing up in Lancaster, I was always tinkering with cars. The idea for Brandon Bartch Mobile Repair began with a simple need: to provide convenient, trustworthy auto care without the hassle and cost of a traditional shop. For over 10 years, I've built this business on a foundation of honesty and personal service, treating every customer's vehicle as if it were my own.
+      </p>
+    </section>
+    <section>
+      <h2>Our Mission</h2>
+      <p>
+        [Example: Articulate your business's core values.]
+        Our mission is to provide professional, on-site automotive repair that is both affordable and reliable. We believe that car maintenance should be stress-free, which is why we come directly to you—at home, at work, or on the road. Our commitment to transparent pricing and quality workmanship ensures you always know what to expect.
+      </p>
+    </section>
+    <section>
+      <h2>Meet the Owner</h2>
+      <p>
+        [Example: Include a brief bio and perhaps a photo to build trust.]
+        Brandon Bartch is a certified automotive technician with a passion for helping people. With extensive experience working on a wide range of vehicle makes and models, he brings professional-grade expertise to every job. When he's not under a hood, Brandon enjoys [Your Hobby Here].
+      </p>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Brandon Bartch Mobile Repair, Lancaster, PA
+  </footer>
+</body>
+</html>
