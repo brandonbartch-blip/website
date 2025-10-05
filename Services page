@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Services | Brandon Bartch Mobile Repair</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Brandon Bartch Mobile Repair</h1>
+    <p>Professional Mobile Auto Services in Lancaster, PA</p>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="www.brandonbartch.com/home">Home</a></li>
+      <li><a href="www.brandonbartch.com/about">About Us</a></li>
+      <li><a href="www.brandonbartch.com/service">Services</a></li>
+      <li><a href="www.brandonbartch.com/contact">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section>
+      <h2>Your Vehicle, Your Location, Our Expertise</h2>
+      <p>
+        We offer a full range of on-site auto repair and maintenance services to keep your vehicle running smoothly. See below for details on our most common services.
+
+
+
+
+
+      <h3>Brake Service</h3>
+        From squealing brakes to a spongy pedal, we handle all types of brake issues. Our mobile service includes full inspection, pad and rotor replacement, and brake fluid flushing, ensuring your vehicle's most critical safety system is in perfect working order.
+      <h3>Suspension</h3>
+        If your ride feels rough or you hear clunking noises, your suspension may need attention. We can diagnose and replace worn-out shocks, struts, ball joints, and tie rods to restore a smooth and controlled ride.
+      suspension
+       <h3>Engine Repairs & Tune-Ups</h3>
+        We perform a variety of on-site engine diagnostics and minor repairs. From spark plugs and ignition coils to check engine light issues, we have the tools to get to the root of the problem and get you back on the road.
+      </p>
+ 
+    </section>
+      <h3>Fluid & Filter Changes</h3>
+      <p>
+        Essential for your car's longevity, our fluid and filter services cover everything from oil changes and coolant flushes to transmission and brake fluid services. All done conveniently at your location.
+      <h3>Electrical & Lighting</h3>
+      <p>
+       electrical services
+        Don't let a dead battery or faulty wiring leave you stranded. We handle battery tests and replacements, headlight and taillight swaps, alternator issues, and other common electrical problems on-site.
+  </main>
+  
+  
+  
+  
+  <footer>
+    &copy; 2025 Brandon Bartch Mobile Repair, Lancaster, PA
+  </footer>
+</body>
+</html>
